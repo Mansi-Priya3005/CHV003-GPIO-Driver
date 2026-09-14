@@ -71,7 +71,7 @@ Unit tests are available in the `Testing/` directory. These tests validate the f
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/r4hulrr/chv003_gpio_driver.git
+   git clone https://github.com/Mansi-Priya3005/CHV003-GPIO-Driver.git
    ```
 2. **Open the Project**:
    Load the `CHV003_GPIO_Driver.wvproj` file in MounRiver Studio IDE.
